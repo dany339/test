@@ -1,0 +1,8 @@
+--- git 작동 방법 --
+git add . 
+git commit -m "원하는 메세지"
+git push 
+
+--- git 기본 세팅 방법 --- 
+git config --global user.email "(너의 이메일주소)"
+git config --global user.name "너의 github 닉네임"
